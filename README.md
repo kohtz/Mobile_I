@@ -41,15 +41,3 @@ lib/
 ├── utilidades/
 │   └── ApiService.dart     # Serviço genérico para requisições HTTP
 
-## 🧪 Como executar o projeto
-
-### 📥 Clone o repositório
-
-```bash
-git clone https://github.com/seu-usuario/flutter-api-list-demo.git
-cd flutter-api-list-demo
-
-## 📦 Instale as dependências
-
-```bash
-flutter pub get
