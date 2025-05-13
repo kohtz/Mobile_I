@@ -40,4 +40,7 @@ lib/
 │   └── PostModel.dart      # Modelo de dados dos posts
 ├── utilidades/
 │   └── ApiService.dart     # Serviço genérico para requisições HTTP
+````
 
+## Link para página Notion
+https://www.notion.so/Atividade-A1-1f23551e747a802ab89ec8861c1b87a3
