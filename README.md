@@ -43,4 +43,4 @@ lib/
 ````
 
 ## Link para página Notion
-https://www.notion.so/Atividade-A1-1f23551e747a802ab89ec8861c1b87a3
+https://fearless-celsius-18f.notion.site/Projeto-Flutter-Consumo-de-API-Lista-Din-mica-1f23551e747a803ca446d8b79c468c59?pvs=4
